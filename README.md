@@ -156,7 +156,7 @@ python ctp.py worst_case.txt 0 2 -r
 
 Καλή Επιτυχία.
 
-Περισσότερες πληφορορίες
+## Περισσότερες πληφορορίες
 
 C.H. Papadimitriou; M. Yannakakis (1989). "Shortest paths without a map". Automata, Languages and Programming: 16th International Colloquium Stresa, Italy, July 11-15.
 
